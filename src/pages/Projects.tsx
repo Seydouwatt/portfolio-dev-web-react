@@ -1,7 +1,6 @@
 import { FaRocket } from "react-icons/fa";
 import Layout from "../components/Layout";
 import { motion } from "framer-motion";
-import { title } from "framer-motion/client";
 
 const projects = [
   {

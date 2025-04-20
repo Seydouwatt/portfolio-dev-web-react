@@ -24,7 +24,7 @@ function Layout({ children }: { children: React.ReactNode }) {
         {children}
       </main>
       <footer className="sticky bottom-0 bg-gray-800 p-5 shadow-md text-center">
-        © 2025 Seydou Ouattara- Tous droits réservés
+        © 2025 Seydou Ouattara - Tous droits réservés
       </footer>
     </div>
   );
